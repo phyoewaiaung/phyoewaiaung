@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PHYOE WAI AUNG</h1>
 <h3 align="center">web developer from MYANMAR</h3>
 
-- 🔭 I’m currently working on **Brycen Myanmar Co.,Ltd**
+- 🔭 I’m currently working on **XenOptics Co.,Ltd**
 
 - 🌱 I’m currently learning **NodeJs,MongoDb**
 
