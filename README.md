@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm PHYOE WAI AUNG</h1>
-<h3 align="center">web developer</h3>
+<h1 align="center">Hi 👋, I'm PHYO WAI AUNG</h1>
+<h3 align="center">Software developer</h3>
 
 - 🔭 I’m currently working on **_XenOptics Co.,Ltd_**
 
