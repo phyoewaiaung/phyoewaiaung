@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **_XenOptics Co.,Ltd_**
 
-- 🌱 I’m currently learning **NodeJs,MongoDb**
-
-- 💬 Ask me about **Javascript(React), PHP(Laravel),MySQL**
+- 💬 Ask me about **Javascript, PHP(Laravel),MySQL**
 
 <h3 align="left">Connect With ME:</h3>
 <p align="left">
